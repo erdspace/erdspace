@@ -28,7 +28,7 @@ mail : erdspace@gmail.com
 
 8. Generate MyBatis mapper, JPA Entity sources.
 
-* This article has been translated through a translator, so please understand even if it's awkward.
+** This article has been translated through a translator, so please understand even if it's awkward.
 
 
 ### 주요 기능 요약
