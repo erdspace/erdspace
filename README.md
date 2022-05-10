@@ -28,6 +28,8 @@ mail : erdspace@gmail.com
 
 8. Generate MyBatis mapper, JPA Entity sources.
 
+9. import Erwin's Xml File.
+
 ** This article has been translated through a translator, so please understand even if it's awkward.
 
 
@@ -54,3 +56,7 @@ mail : erdspace@gmail.com
   - 어트리뷰트 드래그&드랍으로 다른 엔티티로 이동/복사할 수 있습니다.
 
 8. MyBatis Mapper, JPA Entity 소스 생성
+
+9. Import Erwin's Xml File.
+
+
